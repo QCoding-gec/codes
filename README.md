@@ -18,7 +18,7 @@ This repository contains a variety of code samples in different programming lang
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/codes.git
+   git clone https://github.com/QCoding-gecm/codes.git
 Explore the Code:
 Browse through the folders and files to find code examples that interest you.
 
