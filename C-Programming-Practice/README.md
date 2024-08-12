@@ -13,7 +13,8 @@ C-Programming-Practice/
 ├── factorial.c # Computes the factorial of a given number
 ├── fibonacci.c # Generates the Fibonacci series up to a specified number of terms
 ├── prime_check.c # Checks if a given number is a prime number
-└── palindrome_check.c # Checks if a given number is a palindrome
+├── palindrome_check.c # Checks if a given number is a palindrome
+└── and more.......
 
 ## 🛠 How to Use
 
